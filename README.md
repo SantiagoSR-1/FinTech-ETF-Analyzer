@@ -14,7 +14,7 @@ Calculations are then made to determine the portfolio's daily / annualized / cum
 
 ## Technologies
 
-This application runs on python version 3.7, with the following add-ons:
+This analysis runs on python version 3.7, with the following add-ons:
 
 
 * [voila](https://voila.readthedocs.io/en/stable/index.html) - For conversion of jupyter notebooks into interactive webpages.
@@ -24,7 +24,7 @@ This application runs on python version 3.7, with the following add-ons:
 
 ## Installation Guide
 
-Before using the loan qualifier application, the following packages must be installed:
+Before using the running the analysis, the following packages must be installed:
 
 *    pip install SQLAlchemy
 *    conda install -c conda-forge voila
@@ -34,7 +34,7 @@ Before using the loan qualifier application, the following packages must be inst
 
 ## Example
 
-For a visual reference as to how the interface menu works, please refer to the below animation:
+For a visual reference as to how voila web interface package works, please refer to the below animation:
 
 ![ETF Analyzer Movie](resources/voila_demo.gif)
 
