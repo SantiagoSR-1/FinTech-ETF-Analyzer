@@ -45,8 +45,3 @@ For a visual reference as to how voila web interface package works, please refer
 
 Santiago Rosas
 
----
-
-## License
-
-MIT
