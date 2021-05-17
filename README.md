@@ -24,7 +24,7 @@ This analysis runs on python version 3.7, with the following add-ons:
 
 ## Installation Guide
 
-Before using the running the analysis, the following packages must be installed:
+Before running the analysis, the following packages must be installed:
 
 *    pip install SQLAlchemy
 *    conda install -c conda-forge voila
